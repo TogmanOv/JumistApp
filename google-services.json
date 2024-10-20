@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737524403706",
+    "project_id": "diplom-i6gagl",
+    "storage_bucket": "diplom-i6gagl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737524403706:android:6a0fef80fddcb5279ca843",
+        "android_client_info": {
+          "package_name": "com.aitu.jumistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5-0Hjuy16S6iQAQdwYGLbuvW2tpAX1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737524403706:android:72d30a4efda991249ca843",
+        "android_client_info": {
+          "package_name": "com.weloveflutterflow.careercoach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5-0Hjuy16S6iQAQdwYGLbuvW2tpAX1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
